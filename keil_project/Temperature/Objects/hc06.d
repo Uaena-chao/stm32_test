@@ -1,0 +1,33 @@
+.\objects\hc06.o: hardware\HC06.c
+.\objects\hc06.o: .\startup\stm32f10x.h
+.\objects\hc06.o: .\startup\core_cm3.h
+.\objects\hc06.o: D:\Program Files (x86)\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hc06.o: .\startup\system_stm32f10x.h
+.\objects\hc06.o: .\USER\stm32f10x_conf.h
+.\objects\hc06.o: .\Libraries\stm32f10x_adc.h
+.\objects\hc06.o: .\startup\stm32f10x.h
+.\objects\hc06.o: .\Libraries\stm32f10x_bkp.h
+.\objects\hc06.o: .\Libraries\stm32f10x_can.h
+.\objects\hc06.o: .\Libraries\stm32f10x_cec.h
+.\objects\hc06.o: .\Libraries\stm32f10x_crc.h
+.\objects\hc06.o: .\Libraries\stm32f10x_dac.h
+.\objects\hc06.o: .\Libraries\stm32f10x_dbgmcu.h
+.\objects\hc06.o: .\Libraries\stm32f10x_dma.h
+.\objects\hc06.o: .\Libraries\stm32f10x_exti.h
+.\objects\hc06.o: .\Libraries\stm32f10x_flash.h
+.\objects\hc06.o: .\Libraries\stm32f10x_fsmc.h
+.\objects\hc06.o: .\Libraries\stm32f10x_gpio.h
+.\objects\hc06.o: .\Libraries\stm32f10x_i2c.h
+.\objects\hc06.o: .\Libraries\stm32f10x_iwdg.h
+.\objects\hc06.o: .\Libraries\stm32f10x_pwr.h
+.\objects\hc06.o: .\Libraries\stm32f10x_rcc.h
+.\objects\hc06.o: .\Libraries\stm32f10x_rtc.h
+.\objects\hc06.o: .\Libraries\stm32f10x_sdio.h
+.\objects\hc06.o: .\Libraries\stm32f10x_spi.h
+.\objects\hc06.o: .\Libraries\stm32f10x_tim.h
+.\objects\hc06.o: .\Libraries\stm32f10x_usart.h
+.\objects\hc06.o: .\Libraries\stm32f10x_wwdg.h
+.\objects\hc06.o: .\Libraries\misc.h
+.\objects\hc06.o: hardware\HC06.h
+.\objects\hc06.o: D:\Program Files (x86)\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\hc06.o: hardware\OLED.h
